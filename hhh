@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>	</title>
+<script src="//at.alicdn.com/t/font_714655_3586khgm5hs.js">
+					
+</script>
+<style type="text/css">
+    .icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+</style>
+<style>	
+.haha{
+		background: white;
+}
+
+</style>
+</head>
+	     <body>
+			<div class="haha">	
+
+				<svg class="icon" aria-hidden="true">
+    				<use xlink:href="#icon-weibo"></use>
+				</svg>
+				
+			</div>		
+      这是网页预览测试 这是网页预览测试 这是网页预览测试
+				
+
+		</body>
+	</html>			
